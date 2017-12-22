@@ -6,10 +6,10 @@ Collection of xcode playgrounds I've created.
 
 That classic memory game!
 
-![simon says example]('simonsays.gif')
+![simon says example](simonsays.gif)
 
 ## SpeechAnimation
 
 An example for a tap to speak button.
 
-![speech example]('speech.gif')
+![speech example](speech.gif)
